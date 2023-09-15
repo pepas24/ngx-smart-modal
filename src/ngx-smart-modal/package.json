@@ -1,7 +1,7 @@
 {
-  "name": "ngx-smart-modal",
-  "version": "7.4.1",
-  "description": "Smart modal handler to manage modals and data everywhere in Angular apps.",
+  "name": "@sgutierrezc/ngx-smart-modal",
+  "version": "7.4.2",
+  "description": "Smart modal handler to manage modals and data everywhere in Angular apps. Fork from https://github.com/maximelafarie/ngx-smart-modal to patch bugs",
   "main": "./bundles/ngx-smart-modal.umd.js",
   "module": "./esm5/ngx-smart-modal.js",
   "es2015": "./esm2015/ngx-smart-modal.js",
@@ -16,15 +16,15 @@
     "compodoc-serve": "compodoc -s"
   },
   "typings": "./ngx-smart-modal.d.ts",
-  "author": "Maxime LAFARIE <maxime.lafarie@gmail.com>",
+  "author": "Sebastian Gutierrez <sebastiangutierrezcorrea@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maximelafarie/ngx-smart-modal.git"
+    "url": "https://github.com/pepas24/ngx-smart-modal.git"
   },
   "bugs": {
-    "url": "https://github.com/maximelafarie/ngx-smart-modal/issues"
+    "url": "https://github.com/pepas24/ngx-smart-modal/issues"
   },
-  "homepage": "https://github.com/maximelafarie/ngx-smart-modal",
+  "homepage": "https://github.com/pepas24/ngx-smart-modal",
   "keywords": [
     "ngx-smart-modal",
     "ngx",
